@@ -2,5 +2,13 @@
     {
       "package": "dreval",
       "url": "https://github.com/csoneson/dreval"
+    },
+    {
+      "package": "jcc",
+      "url": "https://github.com/csoneson/jcc"
+    },
+    {
+      "package": "ConfoundingExplorer",
+      "url": "https://github.com/csoneson/ConfoundingExplorer"
     }
   ]
